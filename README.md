@@ -11,7 +11,7 @@
 - **[TradeGuard](https://github.com/mrsinani/TradeGuard)**  
   A fullstack application focused on financial data and trading tools.
 
-- **Attention Arsenal**  
+- **[Attention Arsenal](https://apps.apple.com/us/app/attention-arsenal/id6749694041)**  
   An iOS app designed to boost productivity and focus.
 
 ---
