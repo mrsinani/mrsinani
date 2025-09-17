@@ -12,7 +12,7 @@
   A fullstack application focused on financial data and trading tools.
 
 - **Attention Arsenal**  
-  An iOS app designed to boost productivity and focus. (More details coming soon!)
+  An iOS app designed to boost productivity and focus.
 
 ---
 
