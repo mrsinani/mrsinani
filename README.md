@@ -1,6 +1,6 @@
 # Hi, I'm Danaid Sinani 👋
 
-🎓 Junior studying **Computer Science** at Boston University  
+🎓 Senior studying **Computer Science** at Boston University  
 🏙️ Based in Boston  
 💻 Passionate about **backend**, **mobile**, and **fullstack development**
 
