@@ -1,34 +1,10 @@
-# Hi, I'm Danaid Sinani 👋
+<h1 align="center">Hi, I'm Danaid</h1>
+<h3 align="center">CS Student @ Boston University</h3>
 
-🎓 Senior studying **Computer Science** at Boston University  
-🏙️ Based in Boston  
-💻 Passionate about **backend**, **mobile**, and **fullstack development**
+<p align="center">
+  <a href="https://danaidsinani.com/" target="_blank">Portfolio</a> |
+  <a href="mailto:danaid@bu.edu" target="_blank">Email</a> |
+  <a href="https://www.linkedin.com/in/mrsinani/" target="_blank">LinkedIn</a>
+</p>
 
----
-
-## 🚀 Flagship Projects
-
-- **[TradeGuard](https://github.com/mrsinani/TradeGuard)**  
-  A fullstack application focused on financial data and trading tools.
-
-- **[Attention Arsenal](https://apps.apple.com/us/app/attention-arsenal/id6749694041)**  
-  An iOS app designed to boost productivity and focus.
-
----
-
-## 🌱 What I'm Working On
-
-- Exploring new technologies in backend and mobile ecosystems
-- Building robust, user-friendly applications from end to end
-- Collaborating on open-source and university projects
-
----
-
-## 🔗 Connect with Me
-
-- **Personal Website:** [danaidsinani.com](https://danaidsinani.com/)
-- **Email:** danaid@bu.edu
-- **GitHub:** [mrsinani](https://github.com/mrsinani)
-
----
-
+![Danaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrsinani&theme=react&area_color=61DAFB&area=true&radius=6)
